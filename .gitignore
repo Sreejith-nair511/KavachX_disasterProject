@@ -1,0 +1,12 @@
+# .gitignore
+node_modules/
+.pnpm/
+.next/
+dist/
+out/
+*.log
+.env*
+.vscode/
+.idea/
+.DS_Store
+.vercel/
